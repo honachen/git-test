@@ -7,5 +7,6 @@ public class gitText {
         System.out.println("hello gitee");
         System.out.println("hello gitlab");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
