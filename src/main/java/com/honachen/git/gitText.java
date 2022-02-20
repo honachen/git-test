@@ -6,5 +6,6 @@ public class gitText {
         System.out.println("hello github");
         System.out.println("hello gitee");
         System.out.println("hello gitlab");
+        System.out.println("master test");
     }
 }
